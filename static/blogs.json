@@ -1,0 +1,28 @@
+{
+    "Blog 1": {
+        "type": "free-patterns",
+        "subtype": "white",
+        "title": "Free White-Themed Amigurumi Patterns",
+        "intro": "From snowmen to Baymax stuffies, these free online patterns are perfect for white yarn ;)",
+        "content": [
+            {"item": "Tiny Baymax",
+                "description": "Perfect gift to make for a friend who is a Big Hero 6 fan! You can find this pattern by Krafty Kait ",
+                "link": "https://kraftykait.com/amigurumi-tiny-baymax/"},
+            {"item": "Snowman",
+                "description": "Looking for something Christmas-y? You can find this cute snowman pattern by Sweet Softies ",
+                "link": "https://www.sweetsofties.com/2022/11/chibi-christmas-snowman.html?m=1"},
+            {"item": "Bunny",
+                "description": "Here's something perfect for all seasons! This bunny pattern by Once Upon a Cheerio can be found ",
+                "link": "https://www.onceuponacheerio.com/2018/01/classic-amigurumi-bunny-crochet-pattern.html"},
+            {"item": "Chibi White Totoro",
+                "description": "This is something I'd be down to make for myself! If you don't have felt, you can crochet a magic circle for the eyes. This awesome pattern by Lovely Craft can be found ",
+                "link": "https://www.lovelycraft.com/crochet-chibi-totoro-pdf-amigurumi-free-pattern/"},
+            {"item": "Mamegoma",
+                "description": "Mamegoma is an extremely cute Japanese anime seal. This pattern uses felt for the snout, but once again you can practice your crochet by making a crochet snout. Amiamigurumi made this pattern ",
+                "link": "https://amiamigurumi.tumblr.com/post/31650730789/chubby-mamegoma-amigurumi-pattern"},
+            {"item": "Onigiri",
+                "description": "This crocheted rice ball would be a great addition to backpack keychains! Mohu Mohu created this pattern ",
+                "link": "https://blog.mohumohu.com/post/140031191872/amigurumi-rice-ball-pattern"}
+        ]
+    }
+}

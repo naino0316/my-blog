@@ -1,0 +1,50 @@
+{
+    "Lesson 1": {
+        "title": "Grip & Hold",
+        "intro": "There are a couple different ways to hold the crochet hook. The method used in this booklet provides more speed and flexibility when crocheting amigurumi (stuffed toys).",
+        "content": [
+            "Take your hook and squeeze it at the middle between your thumb and index finger of your DOMINANT hand (we will now call this hand the “hook hand”). ",
+            "Gently rest your other fingers onto your hook. Bingo! You now know how to hold the hook.", 
+            "Extend the index and middle fingers of your other hand (we will now call this the “yarn hand”) straight out and pinch your thumb against the rest of your fingers.",
+            "Loop the yarn over your index finger and secure it with your middle finger. The end of the yarn should be facing you. Pinch the end of the yarn with your thumb and the rest of your fingers.",
+            "Your stitches will be loose or tight depending on how you hold the yarn with your hand. Practice playing around with the tension of the yarn looped around your finger.",
+            "Woohoo, great work learning how to hold the hook and the yarn!"
+        ]
+    },
+    "Lesson 2": {
+        "title": "The Chain Stitch",
+        "intro": "Now you will get to learn your first stitch -- the chain stitch. But first, you will create a slip knot... ",
+        "content": [
+            "Place the index finger of your yarn hand over the yarn, with the yarn end facing toward you. With the yarn end, make a complete loop around your finger. Grab the yarn end with the rest of your fingers (yarn hand).",
+            "Moving away from you, loop the running yarn up and over the tip of your index finger. Once again, grab the running yarn with the rest of your fingers (yarn hand). You now have two loops on your index finger.", 
+            "With your hook hand, grab hold of the back loop and pull it over the front loop and off your finger. Move your index finger upwards to tighten the knot, and your slip knot is formed! Insert your hook through the loop and pull on the running yarn to tighten.",
+            "With the hook facing you, gently press your hook against your running yarn. Now, bring the yarn over the hook. This is called yarn over (YO). Pull the hook towards the slip knot, catching the running yarn as you go. ",
+            "Turn your hook towards the thumb of your yarn hand, and pull your hook (with the hooked yarn) through the slip knot. Way to go, you have made a chain stitch! ",
+            "Repeat steps 4-5, yarning over and pulling the yarn through whatever loop is on your hook. If you keep practicing this first foundational stitch, you’ll be well prepared to learn the other stitches! Tip: Aim to make your stitch size consistent."
+        ]
+    },
+    "Lesson 3": {
+        "title": "Project - Making a Bracelet",
+        "intro": "P.S. If you don’t want to make a bracelet, please still look through this to learn how to fasten off (FO).",
+        "content": [
+            "After making a slip knot, make a trail of chain stitches long enough to extend around your wrist. Make sure to leave a nice long yarn tail when making the slip knot ;)",
+            "Leaving a decently long tail, cut the yarn. With the cut yarn, YO and pull through the loop on your hook. This time, pull the yarn completely through the loop. This is called fastening off (FO).", 
+            "You can tie your bracelet around your wrist with the two trailing yarn ends! Congrats on finishing your bracelet! Now you can make one for a friend too and show off your new crochet skills... ;)"
+        ]
+    },
+    "Lesson 4": {
+        "title": "The Single Crochet Stitch",
+        "intro": "Amazing job for making it this far! The basics are always the worst, amirite.... But now, you get to learn the stitch most common in amigurumi --- the single crochet stitch! ",
+        "content": [
+            "Chain 11 (this means making a slip knot, then making 11 chain stitches). You now have one loop on your hook and 11 V-shaped loops (your chain stitches) trailing from your hook. Counting from next to your hook, find the SECOND chain stitch. ",
+            "Insert your hook into this particular chain stitch (from step 1). Just stick it right into the V! You now have two “things” on your hook: one loop and one chain stitch. YO and pull through ONE of them. ", 
+            "You now have two loops on your hook. This time, YO and pull through  both of them. This may be a bit tricky, so kudos to you if you got it! If you haven’t gotten it yet, keep trying. Crochet is entirely worth the effort!",
+            "Yay! You just made your first single crochet stitch (sc)! You now have a trail of V-loops (your chain stitches), and a little block sticking out from one of your V-loops (your sc). Look carefully to determine which chain stitch your little block is coming from. (Since you started from the 2nd chain, notice how you only have 9 chain stitches remaining!)",
+            "Insert your hook into the chain stitch NEXT TO the one your sc is coming from (so #3 in the diagram from step 4). Then, make another sc (steps 2-3)! In the same fashion, continue making sc down your trail of chain stitches...",
+            "Once you have put sc into all of your chain stitches (you should have 10 of them), you have completed a row! Ok, now chain 1. Then, turn your work: this means taking your row and flipping it 180 degrees horizontally.",
+            "Look again at what you have from different angles. Do you see another trail of V-loops? (Hint: These form the top of your sc stitches.) Once again counting from near your hook, locate the SECOND V-loop (analysis: the first V-loop is your chain 1, and the second is a sc). ",
+            "Insert your hook UNDERNEATH this particular V-loop. You again have two “things” on your hook: one loop and one “V.” YO and pull through the “V” only. You are back to two loops on hook! Do you remember what to do next?  ", 
+            "YO and pull through both loops. Hey, you basically made another sc! Continue making sc stitches down the row, remembering to insert your hook UNDERNEATH the V-loops."
+        ]
+    }
+}

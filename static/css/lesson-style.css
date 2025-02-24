@@ -1,0 +1,43 @@
+body {
+    background-image: url("../crochet wallpaper.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p {
+    font-size: larger;
+}
+
+h1 {
+  font-family: "Chango", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #563A9C;
+}
+
+.lesson-intro {
+    background-color: #C4D9FF;
+    text-align: center;
+    padding: 2%;
+}
+
+.lesson-content {
+    padding-top: 2%;
+    text-align: center;
+}
+
+.card-title {
+    color: #C5BAFF;
+}
+
+.card {
+    min-height: 100%
+}
+
+.card-img-top {
+    padding: 3%
+}
+
+.card-body {
+   padding: 3%
+}

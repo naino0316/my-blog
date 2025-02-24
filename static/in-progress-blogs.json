@@ -1,0 +1,14 @@
+{
+    "Blog 2": {
+        "type": "free-patterns",
+        "subtype": "blue"
+    },
+    "Blog 3": {
+        "type": "free-patterns",
+        "subtype": "gray"
+    },
+    "Blog 4": {
+        "type": "free-patterns",
+        "subtype": "red"
+    }
+}
