@@ -43,7 +43,7 @@ def lesson_page(num):
 
 @app.route('/origami')
 def origami_page():
-    return 'Sorry, nothing here yet :)'
+    return render_template('origami.html')
 
 if __name__ == "__main__":
     app.run(debug=True)
