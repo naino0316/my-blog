@@ -10,7 +10,7 @@ body {
 .cover {
     justify-content: center; /* Centers vertically */
     text-align: center; /* Centers text */
-    width: 800px;
+    max-width: 800px;
     margin: auto;
     padding-bottom: 7%;
 }
