@@ -12,7 +12,7 @@ h1 {
 .lesson-intro {
     background-color: #C4D9FF;
     text-align: center;
-    padding: 2%;
+    padding: 80px 0px 20px;
 }
 
 .lesson-content {
@@ -36,3 +36,5 @@ h1 {
 .card-body {
    margin: 2% 2% 5%;
 }
+
+
