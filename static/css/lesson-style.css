@@ -29,9 +29,10 @@ h1 {
 }
 
 .card-img-top {
-    padding: 3%
+    padding: 3%;
+    border-radius: 5%;
 }
 
 .card-body {
-   padding: 3%
+   margin: 2% 2% 5%;
 }
