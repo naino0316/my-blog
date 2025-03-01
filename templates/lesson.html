@@ -11,6 +11,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Chango&family=Libre+Baskerville&family=Mountains+of+Christmas&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Corinthia:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="nav-bar">
@@ -37,7 +38,7 @@
     {% set lesson_name = 'Lesson ' + (num|string) %}
     <div class="lesson-intro">
         <h1>{{lesson_name}}: {{lesson["title"]}}</h1>
-        <p>{{ lesson["intro"] }}</p>
+        <p class="sour-gummy-font">{{ lesson["intro"] }}</p>
     </div>
         
     <div class="lesson-content container text-center">
@@ -47,7 +48,7 @@
             <div class="col-lg-4 col-sm-6 mb-4">
                 <div class="card">
                     <img src='../../static/lesson-images/{{lesson_name}}/{{num}}.{{step_num+1}}.png' class="card-img-top">
-                    <div class="card-body">
+                    <div class="card-body sour-gummy-font">
                         <h5 class="card-title">Step {{step_num+1}}</h5>
                         <p class="card-text">{{ step }}</p>
                     </div>

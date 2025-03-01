@@ -15,12 +15,15 @@ body {
 .nav-bar {
     background-color: #f8f9fa;
     display: flex;
-    align-items: center;
+    align-items: stretch;
     position: fixed;
     top: 0;
     z-index: 1000;
     width: 100%;
-    margin-bottom: 20px;
+    height: 60px;
+    left: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
 }
 
 .navlist {
@@ -28,10 +31,12 @@ body {
     list-style: none;
     margin: 0;
     padding-left: 15px;
+    height: 100%;
 }
 
 .navitem {
     display: flex;
+    height: 100%;
 }
 
 .navlink {
@@ -40,7 +45,7 @@ body {
     justify-content: center;
     text-decoration: none;
     color: rgb(33, 37, 41);
-    padding: 4px 10px;
+    padding: 0px 15px;
     height: 100%;
 }
 
@@ -56,4 +61,5 @@ body {
     font-family: "Corinthia", cursive;
     font-weight: 600;
     font-size: 30px;
+    height: 100%;
 }
