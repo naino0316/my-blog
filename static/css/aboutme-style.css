@@ -1,3 +1,19 @@
+.main-content {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    height: 100vh;
+}
+
+#signature {
+    font-family: "Corinthia", cursive;
+    font-weight: 600;
+    font-size: 30px;
+}
+
 .card {
-    margin-top: 5%;
+    display: flex;
+    width: 65%;
+    padding: 2%;
+    margin-top: 4%;
 }
